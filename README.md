@@ -11,5 +11,5 @@ On the meal, you can either select to add it to your favorites or order it.
 Hope you'll enjoy the application 😁
 
 # Technologies:
-  React Native
+  React Native  
   Redux
